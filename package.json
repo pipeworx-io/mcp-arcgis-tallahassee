@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-tallahassee",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Tallahassee-Leon County GIS — Tallahassee-Leon County, Florida open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-aa81da4a5d9012fc894137297028e5b81c2945d44e0e034f9c9d06ad41b9bfe2",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-763b9351a8c52b8897da354c0f16f3f1d9fc32102dd5ee04816fbdc4619bae0b",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
